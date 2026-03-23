@@ -2,7 +2,7 @@
 
 Hey，coder——每天多一点灵感。这里收录开源与技术趣选，轻松读、慢慢攒。
 
-仓库：<https://github.com/tageecc/heygithub>
+仓库：<https://github.com/tageecc/heycoder>
 
 微信公众号：**HeyCoder**（可在本 README 补充二维码或 ID）· 欢迎推荐项目
 

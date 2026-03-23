@@ -87,8 +87,6 @@ code HeyCoder001.md
 
 ## 👥 贡献者
 
-下列为仓库 **Git 提交者**头像：小尺寸、略重叠，人数增多时横向排开，便于一眼扫过。名单由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 根据 API 更新，与 [Contributors](https://github.com/tageecc/heycoder/graphs/contributors) 一致。
-
 <!-- readme: contributors -start -->
 <p align="left">
 <span style="display:inline-flex;align-items:center;flex-wrap:wrap;">

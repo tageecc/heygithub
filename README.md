@@ -2,15 +2,17 @@
 
 Hey，coder——每天多一点灵感。这里收录开源与技术趣选，轻松读、慢慢攒。
 
-[WeChat: HeyCoder](https://github.com/tagecc/heygithub) · 欢迎推荐项目
+仓库：<https://github.com/tageecc/heygithub>
 
-## 目录
+微信公众号：**HeyCoder**（可在本 README 补充二维码或 ID）· 欢迎推荐项目
+
+## 各期
 
 | 期数 |
 | --- |
 | [第 001 期](content/HeyCoder001.md) |
 
-## 目录结构
+## 仓库结构
 
 ```
 content/     各期正文（Markdown）

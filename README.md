@@ -61,6 +61,19 @@
 对本仓库有 **Git 提交记录** 的贡献者由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 自动写入下表（与 [Contributors 统计](https://github.com/tageecc/heycoder/graphs/contributors) 同源）。有新合并进 `main` 的提交时会更新。
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/tageecc">
+                    <img src="https://avatars.githubusercontent.com/u/8930882?v=4" width="64;" alt="tageecc"/>
+                    <br />
+                    <sub><b>tage</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
 ---

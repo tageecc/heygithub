@@ -1,69 +1,111 @@
-# HeyCoder
+# 🚀 HeyCoder - 开发者技术内容精选
 
-<p align="center">
-  <a href="https://github.com/tageecc/heycoder/stargazers"><img src="https://img.shields.io/github/stars/tageecc/heycoder?style=flat-square" alt="Stars" /></a>
-  <a href="https://github.com/tageecc/heycoder/issues"><img src="https://img.shields.io/github/issues/tageecc/heycoder?style=flat-square" alt="Issues" /></a>
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square" alt="License" /></a>
-</p>
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![WeChat](https://img.shields.io/badge/WeChat-HeyCoder-07C160?logo=wechat&logoColor=white)](https://weixin.qq.com/)
+[![GitHub Issues](https://img.shields.io/github/issues/tageecc/heycoder)](https://github.com/tageecc/heycoder/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tageecc/heycoder/pulls)
 
-**HeyCoder** 是面向开发者的技术内容项目，聚焦开源项目与技术相关话题。正文在微信公众号 **HeyCoder** 更新；本仓库同步保存相同内容的 Markdown，便于全文检索、引用链接与通过 Issue / PR 参与协作。
-
----
-
-## 简介
-
-- **公众号**：日常阅读与推送，请使用微信搜一搜查找 **HeyCoder**。
-- **本仓库**：与公众号对应的文稿与项目推荐见 [`content/`](content/) 目录。
-
-<p align="center">
-  <img src="assets/wechat-official-banner.png" alt="HeyCoder 微信公众号：搜一搜或扫码" width="560" />
-</p>
+> 🔍 **开源项目 · 技术趣选 · 开发者成长**
 
 ---
 
-## 内容
+## 📖 项目介绍
 
-当前文稿示例：[HeyCoder001.md](content/HeyCoder001.md)。完整列表见 [`content/`](content/) 目录。
+**HeyCoder** 是一个面向开发者的技术内容项目，专注于：
 
----
+- 🛠️ 优质开源项目推荐与深度解读
+- 💡 前沿技术话题分享与实战经验
+- 📚 开发者成长路径与学习资源整理
 
-## 参与
-
-- **推荐或自荐开源项目**：[新建 Issue · 项目推荐](https://github.com/tageecc/heycoder/issues/new/choose)（无模板时请注明仓库地址与简要说明）。
-- **致谢名单**：[content/contributors.md](content/contributors.md)。
-
-## 贡献者
-
-以下列表由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 根据提交记录维护，与 [Contributors](https://github.com/tageecc/heycoder/graphs/contributors) 一致。
-
-<!-- readme: contributors -start -->
-<table>
-	<tbody>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/tageecc">
-                    <img src="https://avatars.githubusercontent.com/u/8930882?v=4" width="64;" alt="tageecc"/>
-                    <br />
-                    <sub><b>tage</b></sub>
-                </a>
-            </td>
-		</tr>
-	<tbody>
-</table>
-<!-- readme: contributors -end -->
+📱 **主阵地**：微信公众号「**HeyCoder**」  
+🗂️ **本仓库**：同步归档公众号文章的 Markdown 源码，支持全文检索、永久链接与社区协作
 
 ---
 
-## 目录结构
+## 📁 仓库结构
 
 ```
-content/     文稿与推荐列表（Markdown）
-script/      辅助脚本（可选）
-assets/      静态资源（如公众号物料图）
+heycoder/
+├── content/           # 📝 文章与项目推荐（Markdown 源码）
+│   ├── HeyCoder001.md
+│   ├── contributors.md
+│   └── ...
+├── assets/            # 🖼️ 静态资源（封面图、Logo、宣传物料等）
+├── script/            # ⚙️ 辅助脚本（自动化构建、校验等，可选）
+├── .github/           # 🔧 GitHub Actions 工作流配置
+├── .gitignore
+└── README.md          # 📋 你正在看的文件
 ```
 
 ---
 
-## 许可
+## 📚 内容浏览
 
-本仓库中由 HeyCoder **原创撰写**的说明文字，默认采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。文中引用的第三方开源项目，著作权与许可以各项目仓库为准。
+### 快速开始
+```bash
+# 克隆仓库
+git clone https://github.com/tageecc/heycoder.git
+
+# 进入内容目录
+cd heycoder/content
+
+# 用你喜欢的编辑器打开任意文章
+code HeyCoder001.md
+```
+
+### 文章索引
+所有文章均存放在 `content/` 目录，按 `HeyCoder[序号].md` 命名，例如：
+- [`HeyCoder001.md`](./content/HeyCoder001.md) - 首期内容示例
+
+🔎 建议使用 GitHub 搜索或本地 `grep` 快速定位感兴趣的主题。
+
+---
+
+## 🤝 参与贡献
+
+我们非常欢迎社区伙伴一起共建 HeyCoder！你可以通过以下方式参与：
+
+### ✨ 推荐开源项目
+1. 新建 [Issue](https://github.com/tageecc/heycoder/issues/new) → 选择「📦 项目推荐」模板
+2. 填写：项目地址 + 核心亮点 + 适用场景 + 你的推荐理由
+
+### ✍️ 投稿技术文章
+1. Fork 本仓库 → 在 `content/` 新建 Markdown 文件
+2. 遵循现有文章格式，确保内容原创或已获授权
+3. 提交 PR，附上简要说明，等待审核合并
+
+### 🐛 反馈问题 / 提出建议
+- 发现错别字？链接失效？内容建议？欢迎提 [Issue](https://github.com/tageecc/heycoder/issues) 告诉我们！
+
+> 💡 贡献前建议先阅读 [`content/contributors.md`](./content/contributors.md) 了解致谢规则与协作指南
+
+---
+
+## 📜 许可证
+
+- 本仓库中 **HeyCoder 原创撰写** 的文字内容，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议  
+  → 欢迎非商业转载，请署名 + 相同方式共享
+
+- 文中引用的第三方开源项目，其著作权与许可遵循各项目仓库的独立声明
+
+---
+
+## 🌟 支持我们
+
+如果觉得内容有帮助，欢迎：
+
+1. ⭐ Star 本仓库，第一时间获取更新
+2. 📲 微信搜索「**HeyCoder**」关注公众号，不错过每篇推送
+3. 🔗 分享文章给更多开发者伙伴
+
+---
+
+## 📬 联系方式
+
+| 渠道 | 说明 |
+|------|------|
+| 📮 GitHub Issues | 技术问题 / 内容建议 / Bug 反馈 |
+| 💬 微信公众号 | 搜索「HeyCoder」获取最新文章推送 |
+| 🤝 合作联系 | 请通过仓库 Issue 私信 @tageecc |
+
+---

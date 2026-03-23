@@ -20,6 +20,10 @@
 📱 **主阵地**：微信公众号「**HeyCoder**」  
 🗂️ **本仓库**：同步归档公众号文章的 Markdown 源码，支持全文检索、永久链接与社区协作
 
+<p align="center">
+  <img src="assets/wechat-official-banner.png" alt="HeyCoder 微信公众号：搜一搜或扫码关注" width="560" />
+</p>
+
 ---
 
 ## 📁 仓库结构
@@ -78,6 +82,28 @@ code HeyCoder001.md
 - 发现错别字？链接失效？内容建议？欢迎提 [Issue](https://github.com/tageecc/heycoder/issues) 告诉我们！
 
 > 💡 贡献前建议先阅读 [`content/contributors.md`](./content/contributors.md) 了解致谢规则与协作指南
+
+---
+
+## 👥 贡献者
+
+下列头像由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 根据提交记录更新，与 [Contributors](https://github.com/tageecc/heycoder/graphs/contributors) 一致。
+
+<!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/tageecc">
+                    <img src="https://avatars.githubusercontent.com/u/8930882?v=4" width="64;" alt="tageecc"/>
+                    <br />
+                    <sub><b>tage</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
+<!-- readme: contributors -end -->
 
 ---
 

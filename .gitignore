@@ -17,3 +17,6 @@ build/
 # Local
 *.log
 local_settings.py
+
+# WeChat design kit (keep banner only under assets/)
+qrcode/

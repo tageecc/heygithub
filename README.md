@@ -9,10 +9,10 @@
 
 ## 微信公众号
 
-在微信中阅读、订阅推送：搜索 **HeyCoder**，或扫描下方二维码关注。
+在微信中阅读、订阅推送：打开 **搜一搜**，搜索 **HeyCoder**；或直接扫描下图。
 
 <p align="center">
-  <img src="assets/wechat-qrcode.jpg" alt="HeyCoder 微信公众号二维码" width="220" />
+  <img src="assets/wechat-official-banner.png" alt="HeyCoder 微信公众号：微信搜一搜或扫码关注" width="560" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ```
 content/     文章与项目清单（Markdown）
 script/      辅助脚本（可选）
-assets/      图片等资源（如公众号二维码）
+assets/      公众号推广图等静态资源
 ```
 
 ---

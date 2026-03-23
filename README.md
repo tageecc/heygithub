@@ -1,15 +1,14 @@
 # HeyCoder
 
-> Hey，coder——每天多一点灵感。不贩卖焦虑，只分享一点点：开源项目、开发者工具与技术趣闻，轻松读、慢慢攒。
+> Hey，coder——每天多一点灵感。写点开源、工具和杂七杂八的技术趣闻，读得轻松就行。
 
-**HeyCoder** 是面向开发者的 **微信公众号媒体**：以「开源与技术趣选」为主，每天分享一点可读、可上手的内容。  
-**本 GitHub 仓库**与公众号**同稿同源**，并作为公开存档：方便检索、引用与社区推荐，不替代微信里的阅读与推送体验。
+我在微信上运营 **HeyCoder**，给开发者看。同一套内容会同步到这个仓库，用 Markdown 存一份：你要搜某句话、抄链接，在 GitHub 上比翻聊天记录方便；想追推送，还是微信。
 
 ---
 
 ## 微信公众号
 
-在微信中阅读、订阅推送：打开 **搜一搜**，搜索 **HeyCoder**；或直接扫描下图。
+读文章、收推送：搜一搜里找 **HeyCoder**，或扫下面图。
 
 <p align="center">
   <img src="assets/wechat-official-banner.png" alt="HeyCoder 微信公众号：微信搜一搜或扫码关注" width="560" />
@@ -19,34 +18,27 @@
 
 ## 关于本仓库
 
-项目推荐、技术短文等与公众号**同步**，在本仓库以 **Markdown** 留存，便于检索与引用。风格偏**个人策展**：不追求大而全，更在意好读、能上手、多一点灵感。也欢迎通过 Issue 推荐或自荐开源项目。
+项目推荐、短文，和公众号更新对齐，都在 [`content/`](content/) 里。我按自己的口味写，不追求大而全，你觉得有值得安利的仓库，开个 Issue 就行。
 
 ---
 
-## 背景与愿景
+## 为啥弄两个地方
 
-开源每天都在更新，但很少有人能天天泡 GitHub。我们选择 **公众号做日常触达、仓库做沉淀与协作**——推送提醒你，仓库留住链接与上下文。
+GitHub 上每天都有新东西，我没空常驻刷。公众号负责日常推送；仓库多一个可搜索、可 PR 的副本，链接和上下文丢在这里，以后好找。
 
-- **每天分享一点，每天成长一点**——节奏轻，不卷字数。  
-- **多一点灵感，少一点焦虑**——偏有趣、偏实用。  
-- **连接同路人**——好项目值得被看见，好分享值得被记录。
-
----
-
-## 内容在哪
-
-文章与项目推荐写在 [`content/`](content/) 目录下的 Markdown 里，按文件名浏览即可。
+节奏会故意放轻一点：有趣、实用优先，不堆字数，也不拿「必看」「颠覆」吓唬人。
 
 ---
 
 ## 参与与致谢
 
-- **推荐或自荐项目**：[提交 Issue（项目推荐）](https://github.com/tageecc/heycoder/issues/new/choose)；若模板未出现，新开 Issue 写明仓库链接与一句话介绍即可。
-- **推荐人与内容致谢**：[`content/contributors.md`](content/contributors.md)。
+推荐或自荐项目：[Issue（项目推荐）](https://github.com/tageecc/heycoder/issues/new/choose)。模板没出来就新开 Issue，贴上仓库地址和一句话说明。
+
+推荐人、致谢名单在 [`content/contributors.md`](content/contributors.md)。
 
 ## 仓库贡献者
 
-为本仓库提交过代码或文档的朋友（由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 根据提交记录更新，与 [Contributors](https://github.com/tageecc/heycoder/graphs/contributors) 一致）：
+下面这张表根据提交记录自动生成（[Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml)），和 [Contributors](https://github.com/tageecc/heycoder/graphs/contributors) 对得上。
 
 <!-- readme: contributors -start -->
 <table>
@@ -69,13 +61,13 @@
 ## 目录说明
 
 ```
-content/     文章与项目清单（Markdown）
-script/      辅助脚本（可选）
-assets/      公众号推广图等静态资源
+content/     文章与清单
+script/      脚本（有的话）
+assets/      图，比如公众号横幅
 ```
 
 ---
 
 ## 许可
 
-本仓库中由 HeyCoder **原创撰写与编排**的说明文字，默认采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（署名 · 非商业 · 相同方式共享）；文中提到的**第三方开源项目**仍以各项目仓库的许可证为准。
+HeyCoder 自己写的说明文字默认 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。文里提到的第三方项目，以对方仓库许可证为准。
